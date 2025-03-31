@@ -1,2 +1,2 @@
-# BFSI_CASE_STUDY_Assignment
-Upgrad_Assignment
+# BFSI_CASE_STUDY
+Case Study
